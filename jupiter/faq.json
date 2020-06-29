@@ -131,7 +131,7 @@
    "category": "Income Share Agreement Payment Option",
    "question": "How does ISA work at AttainU?",
    "answer": [
-      "According to our ISA, you will pay the tuition fee of Rs. 2,90,000 when you get placed at a salary equal to or more than Rs. 5 Lakhs per annum within 8 months of the completion of the course. You’ll have the option to pay this fee in easy EMIs of upto 36 months.",
+      "According to our ISA, you will pay the tuition fee of Rs. 2,00,000 when you get placed at a salary equal to or more than Rs. 5 Lakhs per annum within 8 months of the completion of the course. You’ll have the option to pay this fee in easy EMIs of upto 24 months.",
       "ISA is a legally binding contract which ensures that all the parties involved in the contract follow all the rules and regulations. It has information, terms & conditions related to your Training, Placement & Income Sharing.",
       "ISA is signed by You, AttainU and your confirming party (guardian).",
       "",
@@ -147,7 +147,7 @@
    "category": "Income Share Agreement Payment Option",
    "question": "Is there a Registration Fee involved if one chooses the ISA payment option?",
    "answer": [
-      "Yes, there is a registration fee of Rs. 10,000 (+18% GST).",
+      "Yes, there is a registration fee of Rs. 25,000 (+18% GST).",
       "You only have to pay this registration fee after successfully completing <a href=\"https://www.attainu.com/apply\">AttainU’s Personalized Enrolment Process</a>.",
       "This registration fee is paid upfront i.e.before the batch starts.",
       "This registration fee is non-refundable.",
@@ -163,7 +163,7 @@
    "category": "Income Share Agreement Payment Option",
    "question": "How does ISA payment collection happen?",
    "answer": [
-      "Our ISA payment collection is done in one of the below two ways -\n\n  1) through our NBFC (Non-Banking Financial Company) partners. When you get a job, as per the ISA conditions, our assigned NBFC partner will grant you a zero-interest loan equal to the ISA amount (Rs. 2,90,000) which you can choose to pay in EMIs of 36 months. This option is subject to your co-applicant's credit rating passing the assigned NBFC's criterias.\n\n  2) directly pay AttainU, the ISA amount (Rs. 2,90,000), in EMIs spread over 1 month to 10 months.\n",
+      "Our ISA payment collection is done in one of the below two ways -\n\n  1) through our NBFC (Non-Banking Financial Company) partners. When you get a job, as per the ISA conditions, our assigned NBFC partner will grant you a zero-interest loan equal to the ISA amount (Rs. 2,00,000) which you can choose to pay in EMIs of 24 months. This option is subject to your co-applicant's credit rating passing the assigned NBFC's criterias.\n\n  2) directly pay AttainU, the ISA amount (Rs. 2,00,000), in EMIs spread over 1 month to 10 months.\n",
       "",
       "",
       "",
@@ -195,7 +195,7 @@
    "category": "Income Share Agreement Payment Option",
    "question": "Does the ISA amount include taxes?",
    "answer": [
-      "Yes, Rs 2.9 Lakhs is inclusive of GST and other taxes.",
+      "Yes, Rs 2 Lakhs is inclusive of GST and other taxes.",
       "",
       "",
       "",
@@ -277,7 +277,7 @@
    "answer": [
       "We ideally want each of our registered students to succeed. Hence once a batch starts we hate to see anyone leave mid-way. However, we do understand that sometimes circumstances might force you to seek a drop off in the middle of the course. To provide you a comfortable exit in this case we have a drop out policy. The details of the drop out policy are also mentioned in the ISA.",
       "It allows for an easy drop out till 1 month into the course. In this case, your ISA will stand null & void and you would not have to pay any additional fee.",
-      "After 1 month, if you drop out, then there is a drop-out fee, varying from Rs 30,000 to 2.9 Lakhs, depending on the time you drop out at.",
+      "After 1 month, if you drop out, then there is a drop-out fee, varying from Rs 30,000 to 2 Lakhs, depending on the time you drop out at.",
       "",
       "",
       "",
@@ -307,7 +307,7 @@
    "category": "Income Share Agreement Payment Option",
    "question": "For how long do I need to pay the EMIs?",
    "answer": [
-      "In your ISA, you can choose from the below different EMI options -\n\n  1) 36 months EMI option through AttainU assigned NBFC. This option is subject to your co-applicant's credit rating meeting the assigned NBFC's criterias\n\n  2) Discounted shorter duration EMIs directly to AttainU -\n    a) One Shot (30% discount)\n    b) 3 months EMI (25% discount)\n    c) 4 months EMI (20% discount)\n    d) 6 months EMI (10% discount)\n    e) 10 months EMI (No discount)\n",
+      "In your ISA, you can choose from the below different EMI options -\n\n  1) 24 months EMI option through AttainU assigned NBFC. This option is subject to your co-applicant's credit rating meeting the assigned NBFC's criterias\n\n  2) Discounted shorter duration EMIs directly to AttainU -\n    a) One Shot (20% discount)\n    b) 3 months EMI (15% discount)\n    c) 4 months EMI (10% discount)\n    d) 6 months EMI (5% discount)\n    e) 10 months EMI (No discount)\n",
       "",
       "",
       "",
@@ -323,7 +323,7 @@
    "category": "Income Share Agreement Payment Option",
    "question": "Can I pay all the ISA payments at Once?",
    "answer": [
-      "Yes, you will have the option to pay in full, directly to AttainU at a 30% discount.\n",
+      "Yes, you will have the option to pay in full, directly to AttainU at a 20% discount.\n",
       "",
       "",
       "",
@@ -435,7 +435,7 @@
    "category": "Course",
    "question": "How long is the course going to be?",
    "answer": [
-      "This is a 30 weeks long course.",
+      "This is a 33 weeks long course.",
       "",
       "",
       "",
@@ -449,7 +449,7 @@
 },
  {
    "category": "Course",
-   "question": "Is it possible that the course might get extended to more than 30 weeks?",
+   "question": "Is it possible that the course might get extended to more than 33 weeks?",
    "answer": [
       "Yes, sometimes depending on the pace of the batch, the course might get extended by a bit.",
       "In the end, we want to make sure that none of our students get left behind. To ensure this we sometimes have to take repeat lectures or slow down the pace of the batch.",
@@ -675,7 +675,7 @@
    "category": "Placements",
    "question": "When will the placements start, what will be the procedure?",
    "answer": [
-      "Placements start at the end of the course i.e. after 7 months. Before that you will be required to qualify the Final Placement Ready Test (FPRT).",
+      "Placements start at the end of the course i.e. after 9 months. Before that you will be required to qualify the Final Placement Ready Test (FPRT).",
       "",
       "",
       "",
@@ -739,7 +739,7 @@
    "category": "Placements",
    "question": "How many hiring partners does AttainU have?",
    "answer": [
-      "AttainU has more than 120+ hiring partners but not all of them are hiring all the time, it works on a rolling basis.",
+      "AttainU has more than 170+ hiring partners but not all of them are hiring all the time, it works on a rolling basis.",
       "",
       "",
       "",
@@ -819,7 +819,7 @@
    "category": "Placements",
    "question": "Is there any specific degree required to sit for placement?",
    "answer": [
-      "No, based on the performance in the entire 7 months and FPRT percentage you will be eligible for placements.",
+      "No, based on the performance in the entire 9 months and FPRT percentage you will be eligible for placements.",
       "",
       "",
       "",
