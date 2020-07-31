@@ -1,18 +1,66 @@
 [
  {
-   "company": "Attainu",
-   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/0.jpeg"
+   "company": "Ted Consulting",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/ted_consulting.png"
 },
  {
-   "company": "Attainu",
-   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/0.jpeg"
+   "company": "Byldd",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/byldd.png"
 },
  {
-   "company": "Attainu",
-   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/0.jpeg"
+   "company": "F22 Labs",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/f22.png"
 },
  {
-   "company": "Attainu",
-   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/0.jpeg"
+   "company": "GoPlannr",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/goplannr.png"
+},
+ {
+   "company": "Hubilo",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/hubilo.png"
+},
+ {
+   "company": "FynTune",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/fyntune.png"
+},
+ {
+   "company": "Geeks for Geeks",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/gfg.png"
+},
+ {
+   "company": "Infinity Labs",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/ilabs.jpeg"
+},
+ {
+   "company": "Delta.Exchange",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/DeltaExchange.jpeg"
+},
+ {
+   "company": "Singularity Services",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/Singularity_Services.png"
+},
+ {
+   "company": "Bright River",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/Bright-River.jpeg"
+},
+ {
+   "company": "Tech Prescient",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/tech prescient.png"
+},
+ {
+   "company": "Docvita",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/docvita.jpeg"
+},
+ {
+   "company": "Janaspandana",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/Janaspandana.png"
+},
+ {
+   "company": "Mobius Tech",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/Mobius_Tech.png"
+},
+ {
+   "company": "Smarter.Codes",
+   "logo": "https://raw.githubusercontent.com/attainu/meta/master/public/images/Smarter_Codes.png"
 }
 ]
