@@ -58,5 +58,17 @@
    {
       "company":"Mobius Tech",
       "logo":"https://raw.githubusercontent.com/attainu/meta/master/public/images/Mobius_Tech.png"
+   },
+   {
+      "company":"Smarter Codes",
+      "logo":"https://raw.githubusercontent.com/attainu/meta/master/public/images/Smarter_Codes.png"
+   },
+   {
+      "company":"Digiprex",
+      "logo":"https://raw.githubusercontent.com/attainu/meta/master/public/images/Digiprex.png"
+   },
+   {
+      "company":"Latitue Fintech",
+      "logo":"https://raw.githubusercontent.com/attainu/meta/master/public/images/Latitue_Fintech.png"
    }
 ]
