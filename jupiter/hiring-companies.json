@@ -78,5 +78,9 @@
    {
       "company":"Onesaz",
       "logo":"https://raw.githubusercontent.com/attainu/meta/master/public/images/onesaz.png"
+   },
+   {
+      "company":"Red Panda",
+      "logo":"https://raw.githubusercontent.com/attainu/meta/master/public/images/redpanda.png"
    }
 ]
