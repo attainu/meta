@@ -529,6 +529,38 @@
 },
  {
    "category": "Upfront Fee Payment Option",
+   "question": "What is the Upfront Fee Payment Option?",
+   "answer": [
+      "Upfront Fee Payment Option is where the course fee is fully paid before joining the course.",
+      "By going with this option, you will completely skip the ISA as it will not apply for you.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Upfront Fee Payment Option",
+   "question": "How much will I need to pay if I choose the Upfront Fee Payment Option?",
+   "answer": [
+      "Upfront Fee is Rs 1,30,000.",
+      "Currently, we are providing a ‘Stay at Home’ discount of Rs. 30,000 to first 10 admissions. After discount, it will be Rs, 1,00,000.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Upfront Fee Payment Option",
    "question": "Is the Upfront fee refunded, in case a student doesn’t get a job?",
    "answer": [
       "No, the upfront fee is non-refundable.",
@@ -678,6 +710,22 @@
       "2 times, free of cost",
       "",
       "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Course",
+   "question": "When does the Batch Transfer happen?",
+   "answer": [
+      "During the course we follow something known as mastery based progression i.e. students progress to the next month after mastering the concepts from the current month.",
+      "Ultimately our objective is to ensure that after the completion of the course you are ready to face interviews and to start your Software Engineering Career. Mastery based progression helps us ensure just that.",
+      "Batch Transfer is only applicable for students, who appear in the test and are not able to perform satisfactorily in the same. In case, due to some unforeseen emergency, you are not able to take the test, you must inform us beforehand along with proof, as applicable, to be eligible for batch transfer.",
       "",
       "",
       "",
