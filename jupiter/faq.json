@@ -147,7 +147,7 @@
    "category": "Income Share Agreement Payment Option",
    "question": "How does ISA work at AttainU?",
    "answer": [
-      "According to our ISA, you will pay the tuition fee of Rs. 2,00,000 when you get placed at a salary equal to or more than Rs. 5 Lakhs per annum within 8 months of the completion of the course. You’ll have the option to pay this fee in easy EMIs of upto 24 months.",
+      "According to our ISA, you will pay the tuition fee of Rs. 2,00,000 when you get placed at a salary equal to or more than Rs. 5 Lakhs per annum within 12 months of the completion of the course. You’ll have the option to pay this fee in easy EMIs of upto 24 months.",
       "ISA is a legally binding contract which ensures that all the parties involved in the contract follow all the rules and regulations. It has information, terms & conditions related to your Training, Placement & Income Sharing.",
       "ISA is signed by You, AttainU and your confirming party (guardian).",
       "",
@@ -163,11 +163,11 @@
    "category": "Income Share Agreement Payment Option",
    "question": "Is there a Registration Fee involved if one chooses the ISA payment option?",
    "answer": [
-      "Yes, there is a registration fee of Rs. 25,000 (+18% GST).",
+      "Yes, there is a registration fee of Rs. 30,000 (+18% GST).",
       "You only have to pay this registration fee after successfully completing <a href=\"https://www.attainu.com/apply\">AttainU’s Personalized Enrolment Process</a>.",
       "This registration fee is paid upfront i.e.before the batch starts.",
       "This registration fee is non-refundable.",
-      "Besides the regular payment options (Debit/Credit Cards, UPI, NetBanking, Online Wallets etc.), you can also choose Pay Later services to pay this registration fee.",
+      "You can choose to pay the registration fee through any of the payment methods - Debit/Credit Cards, UPI, NetBanking, Online Wallets etc.",
       "This registration fee helps us ensure that only serious students join the batch and the entire batch progresses together with a strong focus on efforts and learning.",
       "",
       "",
@@ -308,7 +308,7 @@
    "question": "Will I have to pay if I get a job earning less than 5 LPA?",
    "answer": [
       "No, you don’t have to pay in that case.\n",
-      "However, at the same time, as per the ISA, you are not allowed to take up any job paying less than 5 LPA, in the 8 month period following course completion. You can only do this after taking explicit written permission from AttainU.\n",
+      "However, at the same time, as per the ISA, you are not allowed to take up any job paying less than 5 LPA, in the 12 month period following course completion. You can only do this after taking explicit written permission from AttainU.\n",
       "",
       "",
       "",
@@ -611,7 +611,7 @@
    "category": "Course",
    "question": "How long is the course going to be?",
    "answer": [
-      "This is a 33 weeks long course.",
+      "This is a 36 weeks long course.",
       "",
       "",
       "",
@@ -625,7 +625,7 @@
 },
  {
    "category": "Course",
-   "question": "Is it possible that the course might get extended to more than 33 weeks?",
+   "question": "Is it possible that the course might get extended to more than 36 weeks?",
    "answer": [
       "Yes, sometimes depending on the pace of the batch, the course might get extended by a bit.",
       "In the end, we want to make sure that none of our students get left behind. To ensure this we sometimes have to take repeat lectures or slow down the pace of the batch.",
@@ -835,7 +835,7 @@
    "category": "Course",
    "question": "Will the content be available after the completion of the course?",
    "answer": [
-      "Yes recorded videos are shared and you can download for indefinite access.",
+      "Yes, recorded lecture videos will be uploaded on your university portal and you'll have indefinite access to those.",
       "",
       "",
       "",
@@ -931,7 +931,7 @@
    "category": "Placements",
    "question": "How many hiring partners does AttainU have?",
    "answer": [
-      "AttainU has more than 170+ hiring partners but not all of them are hiring all the time, it works on a rolling basis.",
+      "AttainU has more than 185+ hiring partners but not all of them are hiring all the time, it works on a rolling basis.",
       "",
       "",
       "",
