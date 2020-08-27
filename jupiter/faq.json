@@ -129,6 +129,22 @@
 },
  {
    "category": "Income Share Agreement Payment Option",
+   "question": "Do I need a guarantor or a confirming party in the ISA agreement?",
+   "answer": [
+      "Yes, as we invest in you throughout the course, to safeguard our investment, we will need a co-applicant/guarantor/confirming party involved, from your side, in the ISA agreement.",
+      "This person should be financially independent.",
+      "This person will be your guardian throughout the course. From time to time we will also keep them updated on your progress in the course.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Income Share Agreement Payment Option",
    "question": "How does ISA work at AttainU?",
    "answer": [
       "According to our ISA, you will pay the tuition fee of Rs. 2,00,000 when you get placed at a salary equal to or more than Rs. 5 Lakhs per annum within 8 months of the completion of the course. You’ll have the option to pay this fee in easy EMIs of upto 24 months.",
@@ -343,7 +359,7 @@
       "The NBFC assigned to you, will also most likely take legal recourse to get back their loan amount.\n",
       "If you are paying directly to AttainU, there will be a late fee of Rs 100 per day.\n",
       "While we will hate to, but we will have to execute your ISA Breach Recovery Cheque and take legal action if your EMI gets delayed by more than 30 days.\n",
-      "",
+      "In this case your ISA Security Documents will be held by us till the breach is resolved as per the terms mentioned in the ISA.",
       "",
       "",
       "",
@@ -375,6 +391,134 @@
       "This cheque is from the student’s guardian’s (confirming party on the ISA) bank account. This cheque is in the name of our company. This cheque does not have any date written on it.\n",
       "As you understand, ultimately learning also depends on the efforts a student puts in. This cheque helps us protect some part of our investment, in the case the student does not put in the required efforts. ",
       "This cheque will be executed only in the case a student breaches the ISA. \n",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Income Share Agreement Payment Option",
+   "question": "When will my ISA Breach Recovery Cheque be returned?",
+   "answer": [
+      "At the end of the ISA period, a photo of the cancelled cheque will be sent to you. This photo serves as proof that the cheque has been cancelled and can no longer be encashed. We will not be physically sending the cancelled cheque back to you.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+  {
+   "category": "Income Share Agreement Payment Option",
+   "question": "What are the ISA Security Documents?",
+   "answer": [
+      "ISA Security Documents are your Original 10th and 12th grade Pass Certificates.",
+      "These documents will be held by AttainU as per the ISA and will be safely returned to you in the end.",
+      "In the worst case scenario, if a student breaches the ISA agreement, holding these documents helps us ensure that the student remains responsive.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Income Share Agreement Payment Option",
+   "question": "When will my ISA Security Documents be returned?",
+   "answer": [
+      "The ISA Security Documents will be returned as per the below timelines -\n\n  1) After getting a job, if a student chooses to pay the course fee through our NBFC partner, then the documents will be returned once the NBFC partner receives the first EMI from the student.\n\n  2)After getting a job, if a student chooses to pay the course fee directly to AttainU, then the documents will be returned once all the EMIs have been paid.\n\n  3)In the worst case if you decide to drop from the course mid way, then the documents will be returned to you after completing the drop out process as per the ISA.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Income Share Agreement Payment Option",
+   "question": "To confirm my admission under the ISA payment option which all documents do I need to submit?",
+   "answer": [
+      "Once selected for the course, to confirm your admission under the  ISA payment option you will need to submit the below documents -\n\n  1)A signed and stamped copy of the Income Share Agreement.\n\n  2)ISA Breach Recovery Cheque.\n\n  3)ISA Security Documents.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Income Share Agreement Payment Option",
+   "question": "By when do I need to submit my documents to confirm my admission under the ISA payment option?",
+   "answer": [
+      "These documents need to be submitted before the starting date of the batch.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Income Share Agreement Payment Option",
+   "question": "Do I need to courier a hard copy of my documents?",
+   "answer": [
+      "Yes, these documents will have to be physically couriered to us at our communication address.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Income Share Agreement Payment Option",
+   "question": "What will happen to my admission if I am not able to submit my documents before the given deadline?",
+   "answer": [
+      "While we are sure that if sent timely, then the documents will reach us before the batch starting date. However, in case the documents don’t reach us before the batch starting date, then your admission will be put on hold and can be cancelled.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "category": "Income Share Agreement Payment Option",
+   "question": "Will my Registration Fee be refunded if I am not able to submit my documents before the given deadline?",
+   "answer": [
+      "The Registration Fee is non-refundable.",
+      "",
+      "",
+      "",
       "",
       "",
       "",
