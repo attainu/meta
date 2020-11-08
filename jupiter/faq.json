@@ -147,7 +147,7 @@
    "category": "Income Share Agreement Payment Option",
    "question": "How does ISA work at AttainU?",
    "answer": [
-      "According to our ISA, you will pay the tuition fee of Rs. 2,00,000 when you get placed at a salary equal to or more than Rs. 5 Lakhs per annum within 12 months of the completion of the course. You’ll have the option to pay this fee in easy EMIs of upto 24 months.",
+      "According to our ISA, you will pay the tuition fee of Rs. 2,00,000 when you get placed at a salary equal to or more than Rs. 5 Lakhs per annum within 18 months of the completion of the course. You’ll have the option to pay this fee in easy EMIs of upto 24 months.",
       "ISA is a legally binding contract which ensures that all the parties involved in the contract follow all the rules and regulations. It has information, terms & conditions related to your Training, Placement & Income Sharing.",
       "ISA is signed by You, AttainU and your confirming party (guardian).",
       "",
@@ -163,7 +163,7 @@
    "category": "Income Share Agreement Payment Option",
    "question": "Is there a Registration Fee involved if one chooses the ISA payment option?",
    "answer": [
-      "Yes, there is a registration fee of Rs. 30,000 (+18% GST).",
+      "Yes, there is a registration fee of Rs. 60,000 (+18% GST).",
       "You only have to pay this registration fee after successfully completing <a href=\"https://www.attainu.com/apply\">AttainU’s Personalized Enrolment Process</a>.",
       "This registration fee is paid upfront i.e.before the batch starts.",
       "This registration fee is non-refundable.",
@@ -308,7 +308,7 @@
    "question": "Will I have to pay if I get a job earning less than 5 LPA?",
    "answer": [
       "No, you don’t have to pay in that case.\n",
-      "However, at the same time, as per the ISA, you are not allowed to take up any job paying less than 5 LPA, in the 12 month period following course completion. You can only do this after taking explicit written permission from AttainU.\n",
+      "However, at the same time, as per the ISA, you are not allowed to take up any job paying less than 5 LPA, in the 18 month period following course completion. You can only do this after taking explicit written permission from AttainU.\n",
       "",
       "",
       "",
@@ -415,43 +415,11 @@
       ""
    ]
 },
-  {
-   "category": "Income Share Agreement Payment Option",
-   "question": "What are the ISA Security Documents?",
-   "answer": [
-      "ISA Security Documents are your Original 10th and 12th grade Pass Certificates.",
-      "These documents will be held by AttainU as per the ISA and will be safely returned to you in the end.",
-      "In the worst case scenario, if a student breaches the ISA agreement, holding these documents helps us ensure that the student remains responsive.",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
-},
- {
-   "category": "Income Share Agreement Payment Option",
-   "question": "When will my ISA Security Documents be returned?",
-   "answer": [
-      "The ISA Security Documents will be returned as per the below timelines -\n\n  1) After getting a job, if a student chooses to pay the course fee through our NBFC partner, then the documents will be returned once the NBFC partner receives the first EMI from the student.\n\n  2)After getting a job, if a student chooses to pay the course fee directly to AttainU, then the documents will be returned once all the EMIs have been paid.\n\n  3)In the worst case if you decide to drop from the course mid way, then the documents will be returned to you after completing the drop out process as per the ISA.",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ]
-},
  {
    "category": "Income Share Agreement Payment Option",
    "question": "To confirm my admission under the ISA payment option which all documents do I need to submit?",
    "answer": [
-      "Once selected for the course, to confirm your admission under the  ISA payment option you will need to submit the below documents -\n\n  1)A signed and stamped copy of the Income Share Agreement.\n\n  2)ISA Breach Recovery Cheque.\n\n  3)ISA Security Documents.",
+      "Once selected for the course, to confirm your admission under the  ISA payment option you will need to submit the below documents -\n\n  1)A signed and stamped copy of the Income Share Agreement.\n\n  2)ISA Breach Recovery Cheque.",
       "",
       "",
       "",
@@ -547,8 +515,8 @@
    "category": "Upfront Fee Payment Option",
    "question": "How much will I need to pay if I choose the Upfront Fee Payment Option?",
    "answer": [
-      "Upfront Fee is Rs 1,30,000.",
-      "Currently, we are providing a ‘Stay at Home’ discount of Rs. 30,000 to first 10 admissions. After discount, it will be Rs, 1,00,000.",
+      "Upfront Fee is Rs 1,60,000.",
+      "Currently, we are providing a ‘Stay at Home’ discount of Rs. 35,000 to first 10 admissions. After discount, it will be Rs, 1,25,000.",
       "",
       "",
       "",
@@ -595,7 +563,7 @@
    "category": "Course",
    "question": "Can the course be done part-time?",
    "answer": [
-      "Yes. However, it requires you to be available for 4-6 hours in the evening, Monday - Friday, between 6 pm and 11 pm, to attend different kind of live sessions.",
+      "Yes. However, it requires you to be available for 4-5 hours in the evening, Monday - Friday, between 6 pm and 11 pm, to attend different kind of live sessions.",
       "",
       "",
       "",
@@ -611,7 +579,7 @@
    "category": "Course",
    "question": "How long is the course going to be?",
    "answer": [
-      "This is a 36 weeks long course.",
+      "This is a 12 months long course.",
       "",
       "",
       "",
@@ -625,7 +593,7 @@
 },
  {
    "category": "Course",
-   "question": "Is it possible that the course might get extended to more than 36 weeks?",
+   "question": "Is it possible that the course might get extended to more than 12 months?",
    "answer": [
       "Yes, sometimes depending on the pace of the batch, the course might get extended by a bit.",
       "In the end, we want to make sure that none of our students get left behind. To ensure this we sometimes have to take repeat lectures or slow down the pace of the batch.",
@@ -758,7 +726,7 @@
       "2 hours of daily lecture.",
       "Along with that you’ll also have daily homework discussion and doubt resolution sessions with your TAs and Mentors.",
       "You’ll also be given practise homework to master the topics.",
-      "Your overall engagement with Attainu will be for 4-6 hours daily, 6 pm to 11 pm, Monday to Friday.",
+      "Your overall engagement with Attainu will be for 4-5 hours daily, 6 pm to 11 pm, Monday to Friday.",
       "",
       "",
       "",
@@ -867,7 +835,7 @@
    "category": "Placements",
    "question": "When will the placements start, what will be the procedure?",
    "answer": [
-      "Placements start at the end of the course i.e. after 9 months. Before that you will be required to qualify the Final Placement Ready Test (FPRT).",
+      "Placements start at the end of the course i.e. after 12 months. Before that you will be required to qualify the Final Placement Ready Test (FPRT).",
       "",
       "",
       "",
@@ -883,7 +851,7 @@
    "category": "Placements",
    "question": "What is FPRT (Final Placement Ready Test)?",
    "answer": [
-      "At the end of this course a third party (not AttainU) conducts a Final Test based on the course curriculum and students scoring more than 65% are considered eligible for the placement.",
+      "At the end of this course a third party (not AttainU) conducts a Final Test based on the course curriculum and students scoring more than 60% are considered eligible for the placement.",
       "",
       "",
       "",
@@ -1011,7 +979,7 @@
    "category": "Placements",
    "question": "Is there any specific degree required to sit for placement?",
    "answer": [
-      "No, based on the performance in the entire 9 months and FPRT percentage you will be eligible for placements.",
+      "No, based on the performance in the entire 12 months and FPRT percentage you will be eligible for placements.",
       "",
       "",
       "",
